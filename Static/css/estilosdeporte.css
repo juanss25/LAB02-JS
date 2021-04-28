@@ -1,0 +1,9 @@
+#seccion1 {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/photos/empty-dark-wooden-table-in-front-of-abstract-blurred-bokeh-background-picture-id1130714046?s=612x612);
+    background-size:contain;
+    border: 20px solid #555;
+}
